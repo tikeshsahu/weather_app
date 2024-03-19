@@ -5,7 +5,7 @@ This project involves building a Flutter app that displays weather data fetched 
 # Installation and Run Guide
 ```
 
-git clone https://github.com/jay-isampelliwar/Weather-App
+git clone https://github.com/tikeshsahu/weather_app.git
 cd Weather-App
 flutter pub get
 flutter run
@@ -24,9 +24,5 @@ flutter run
   permission_handler: ^11.3.0
   
 
-# Version
-## Flutter Version 3.16.1
-## Dart Version 3.2.1
-
 # Contact Info
-### Email: jay.isampelliwar52@gmail.com
+### Email: tikeshsahuofficial@gmail.com
